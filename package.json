@@ -1,0 +1,19 @@
+{
+  "name": "himms_test_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.0",
+    "concurrently": "^6.2.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "react-bootstrap": "^2.0.0-beta.6"
+  }
+}
